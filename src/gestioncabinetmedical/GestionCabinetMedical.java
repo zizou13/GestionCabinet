@@ -14,6 +14,7 @@ import javafx.stage.Stage;
 /**
  *
  * @author User
+ * salaam 3alaykoum
  */
 public class GestionCabinetMedical extends Application {
     
